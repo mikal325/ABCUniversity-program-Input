@@ -1,1 +1,2 @@
 # ABCUniversity-program-Input
+This is documentation of the pusedocode for the ABC University's staff of advisors.  The psuedocode has 3 options, a vector, hash table and binary tree.  During this proposal, the Hash table seemed like the best choice, as it can store lots of information in each of its individual buckets, which is required for the advisors to use.  Each course may contain anywhere from zero to two plus prerequisites that need to be stored along with the name of the course and the course ID.
